@@ -8,7 +8,7 @@ I’m a **Senior Software Engineer** with over 3 years of experience building ro
 
 - 📍 Based in **New Delhi, India**
 - 📧 Reach me at: **gagan162000@gmail.com**
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin) | Check out my code on [GitHub](https://github.com/yourusername)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gagandeep-singh-159739184/) | Check out my code on [GitHub](https://github.com/Gagandeep-Singh162)
 - 🎓 B.Tech in Computer Science from **Guru Tegh Bahadur Institute of Technology** (CGPA: 8.68)
 - ☁️ Certified **Azure Developer Associate (AZ-204)** and **Azure Fundamentals (AZ-900)**
 
